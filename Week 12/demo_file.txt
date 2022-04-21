@@ -1,0 +1,5 @@
+This is normal line
+this is small letter line
+THIS IS ALL CAPS LINE
+This Is Normal Line
+
